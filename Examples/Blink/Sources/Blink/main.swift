@@ -9,6 +9,5 @@ while true {
     red.toggle()
     blue.toggle()
 
-
     sleep(ms: 500)
 }
